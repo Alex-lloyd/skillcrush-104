@@ -1,0 +1,19 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** AJ,s Styles **/
+
+<style> body {
+    background-color: grey;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+</style>
